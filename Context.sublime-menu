@@ -1,0 +1,10 @@
+[
+  { 
+    "caption": "Upload to CodeDrafts", 
+    "command": "codedrafts_upload"
+  },
+  { 
+    "caption": "Get latest revision from CodeDrafts", 
+    "command": "codedrafts_download"
+  }
+]
