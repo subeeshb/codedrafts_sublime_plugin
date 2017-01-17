@@ -1,11 +1,9 @@
 [
   {
-    "id": "codedrafts_upload",
     "caption": "Upload to CodeDrafts",
     "command": "codedrafts_upload"
   },
   {
-    "id": "codedrafts_download",
     "caption": "Get latest revision from CodeDrafts",
     "command": "codedrafts_download"
   }
